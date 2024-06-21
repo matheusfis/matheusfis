@@ -20,7 +20,6 @@
 
 <div>
   <a href="https://github.com/matheusfis/edit/main/README.md">
-    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfis&theme=blue_navy&hide_border=false"/><br><br>
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfis&layout=compact&langs_count=8&card_width=320&theme=blue_navy"/>
   </a>
 </div>
