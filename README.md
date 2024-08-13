@@ -1,26 +1,36 @@
 <div align="center">
-  
-# Olá!, eu sou o Matheus Fischer👋
-### Estudante de ADS na SPTech 1/5
-<div/>
-  
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dsM3RzMXZ6cTdwZTR3NDFlOWQxMTVlM3k3N3p2NGdxeGJxMnV2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="GIF" width="300px"/>
 
-## -💻 Tecnologias que já tive contato
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<div>
-  <a href="https://github.com/matheusfis/edit/main/README.md">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfis&layout=compact&langs_count=8&card_width=320&theme=blue_navy"/>
+# 👋 Olá, eu sou o Matheus Fischer!
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-angelo-fischer-bb044a2b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas na SPTech (2/5)
+
 </div>
-</div>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusfis&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfis&layout=compact&langs_count=8&theme=blue_navy" alt="Linguagens mais usadas"/>
+</p>
+
