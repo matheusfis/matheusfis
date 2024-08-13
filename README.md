@@ -1,7 +1,7 @@
-<div align="center">
+<div align="left">
 
 # 👋 Olá, eu sou o Matheus Fischer!
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/matheus-angelo-fischer-bb044a2b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -16,7 +16,7 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -29,8 +29,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusfis&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfis&layout=compact&langs_count=8&theme=blue_navy" alt="Linguagens mais usadas"/>
 </p>
 
