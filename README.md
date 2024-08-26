@@ -25,11 +25,4 @@
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusfis&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-</p>
 
